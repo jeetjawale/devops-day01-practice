@@ -1,0 +1,17 @@
+# Windows Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Application Logs and Temporary Files
+*.log
+*.tmp
+
+# Sensitive Environment Configuration
+*.env
+
+# Build Artifacts & Compiled Executables
+*.exe
+bin/
+obj/
